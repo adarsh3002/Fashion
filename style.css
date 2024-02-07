@@ -648,6 +648,12 @@ right: 5%;
 
 }
 
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  .icons {
+      width: 15%;
+        height: 44px;
+  }
+}
 
 
 
